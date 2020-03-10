@@ -1,0 +1,10 @@
+echo "# Build-2-MSRP-Pred" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/e-pyrom/Build-2-MSRP-Pred.git
+git push -u origin master
+
+cars dataset: https://www.kaggle.com/CooperUnion/cardataset
+medium link: https://medium.com/@e.pyrom/car-msrp-prediction-model-79169dad4489?sk=0b60a05a2039a17775aed19334f7dbbb
+google colab:https://colab.research.google.com/drive/1FoHLvQZxLmnk4LRDPRzfPFT2TaWO_Vai
